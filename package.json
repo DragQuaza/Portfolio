@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dragquaza.github.io/portfolio/",
+  "homepage": "./",
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "@react-pdf-viewer/default-layout": "^3.12.0",
